@@ -1,1 +1,1 @@
-Exercícios básicos de Python
+Exercícios básicos de Python aula de Lógica de programação
